@@ -1,4 +1,5 @@
 # Yuder (juː deə?)
+[![Go](https://github.com/claudemuller/yuder/actions/workflows/go.yml/badge.svg)](https://github.com/claudemuller/yuder/actions/workflows/go.yml)
 
 Exploring ICMP/RFC792 with a client and server implementation in Go.
 
